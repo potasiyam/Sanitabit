@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanitabit", "Sanitabit\Sanitabit.csproj", "{BE75D5EA-2031-478C-BAEF-7331D9E27D12}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B4BD0E4C-5DD6-408E-937D-34AB115A1AB5} = {B4BD0E4C-5DD6-408E-937D-34AB115A1AB5}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightPhoneDatabase", "SilverlightPhoneDatabase\SilverlightPhoneDatabase.csproj", "{B4BD0E4C-5DD6-408E-937D-34AB115A1AB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE75D5EA-2031-478C-BAEF-7331D9E27D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE75D5EA-2031-478C-BAEF-7331D9E27D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE75D5EA-2031-478C-BAEF-7331D9E27D12}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BE75D5EA-2031-478C-BAEF-7331D9E27D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE75D5EA-2031-478C-BAEF-7331D9E27D12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE75D5EA-2031-478C-BAEF-7331D9E27D12}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B4BD0E4C-5DD6-408E-937D-34AB115A1AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BD0E4C-5DD6-408E-937D-34AB115A1AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BD0E4C-5DD6-408E-937D-34AB115A1AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BD0E4C-5DD6-408E-937D-34AB115A1AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
